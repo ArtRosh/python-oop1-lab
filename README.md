@@ -68,6 +68,6 @@ page_count must be an integer
 This coffee is great, here's a tip!
 4.5
 size must be Small, Medium, or Large
-
+```
 ## Test Results
-![All tests passed](docs/tests-passed.png)
+<img src="docs/tests-passed.png" alt="All tests passed" width="800"/>
